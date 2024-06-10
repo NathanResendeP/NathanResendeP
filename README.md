@@ -2,10 +2,10 @@
 
 ## Seja bem vindo! A seguir temos um pouco sobre mim.
 
-Tenho 21 anos e estou estudando Engenharia da Computação na USF - Universidade São Francisco, com previsão de término em dezembro de 2024.
-Tenho trabalhado e me especializado em Administração de Sistemas, Infraestrutura de TI e DevOps, com conhecimento e prática em Linux, Linux Server, Windows Server e Active Directory, GPOs, Virtualização, Configuração de rede, Cloud, Ferramentas de monitoramento, Suporte técnico e Troubleshooting.
+Tenho 21 anos e estou cursando Engenharia da Computação na USF - Universidade de São Francisco, com previsão de término em 2024.
+Experiencia profissional em infraestrutura de TI e Administração de Sistemas, com conhecimento e prática em Linux (Debian, Ubuntu), Windows Server, AWS, Active Directory, GPOs, Virtualização, DHCP, DNS, VLAN, Configuração de dispositivos de rede (Switches, Roteadores, Firewalls), Ferramentas de Monitoramento (PRTG), Suporte Técnico e Troubleshooting.
 
-Busco por uma oportunidade como Administrador de Sistemas ou posições correlatas onde possa agregar valor com toda experiência e conhecimento, aprendendo mais todos os dias com a equipe e novos desafios.
+Sempre em busca de novos desafios e aprendizado.
 
 ##
 
