@@ -6,19 +6,19 @@ I am an Information Technology professional and Computer Engineering student at 
 
 My technical skills include, but are not limited to:
 
-   Operating Systems: Experience in Linux (Debian and Ubuntu) and Windows Server.
-
-   Cloud Computing: Knowledge of AWS (AWS Certified Cloud Practitioner) and Microsoft Azure.
-
-   IT Management: Microsoft Intune, Microsoft Defender, Active Directory and Group Policy, etc.
-
-   Networking, Virtualization and Services: Configuration and management of Switches, Routers, Firewalls, TCP/IP and the OSI Model, Network Segmentation (VLAN), L2 and L3, DHCP, DNS, etc.
-
-   Monitoring Tools: Use of PRTG for infrastructure monitoring.
-
-   Technical Support and Troubleshooting: Strong technical support and troubleshooting skills.
-
-   Other relevant knowledge: Familiarity with Database concepts (SQL and NoSQL), Programming Logic, programming and Scripting, etc.
+- **Operating Systems**: Experience in Linux (Debian and Ubuntu) and Windows Server.
+  
+- **Cloud Computing**: Knowledge of AWS (AWS Certified Cloud Practitioner) and Microsoft Azure.
+  
+- **IT Management**: Microsoft Intune, Microsoft Defender, Active Directory and Group Policy, etc.
+  
+- **Networking, Virtualization and Services**: Configuration and management of Switches, Routers, Firewalls, TCP/IP and the OSI Model, Network Segmentation (VLAN), L2 and L3, DHCP, DNS, etc.
+  
+- **Monitoring Tools**: Use of PRTG for infrastructure monitoring.
+  
+- **Technical Support and Troubleshooting**: Strong technical support and troubleshooting skills.
+  
+- **Other relevant knowledge**: Familiarity with Database concepts (SQL and NoSQL), Programming Logic, programming and Scripting, etc.
 
 My English level is advanced/fluent (C1-C2) and I have experience working with international teams, which allows me to communicate effectively and collaborate on global projects.
 
