@@ -1,15 +1,32 @@
-# Olá, Eu sou o Nathan Resende 👨‍💻
+# Hello, I am Nathan Resende 👨‍💻
 
-## Seja bem vindo! A seguir temos um pouco sobre mim.
+## Welcome to my profile! Here's a bit about me.
 
-Tenho 21 anos e estou cursando Engenharia da Computação na USF - Universidade de São Francisco, com previsão de término em 2024.
-Experiencia profissional em infraestrutura de TI e Administração de Sistemas, com conhecimento e prática em Linux (Debian, Ubuntu), Windows Server, AWS, Active Directory, GPOs, Virtualização, DHCP, DNS, VLAN, Configuração de dispositivos de rede (Switches, Roteadores, Firewalls), Ferramentas de Monitoramento (PRTG), Suporte Técnico e Troubleshooting.
+I am an Information Technology professional and Computer Engineering student at the University of San Francisco (USF), scheduled to graduate in 2024. I have a strong background in IT infrastructure and Systems Administration, with a broad set of technical and practical skills.
 
-Sempre em busca de novos desafios e aprendizado.
+My technical skills include, but are not limited to:
+
+ Operating Systems: Experience in Linux (Debian and Ubuntu) and Windows Server.
+
+ Cloud Computing: Knowledge of AWS (AWS Certified Cloud Practitioner) and Microsoft Azure.
+
+ IT Management: Microsoft Intune, Microsoft Defender, Active Directory and Group Policy, etc.
+
+ Networking, Virtualization and Services: Configuration and management of Switches, Routers, Firewalls, TCP/IP and the OSI Model, Network Segmentation (VLAN), L2 and L3, DHCP, DNS, etc.
+
+ Monitoring Tools: Use of PRTG for infrastructure monitoring.
+
+ Technical Support and Troubleshooting: Strong technical support and troubleshooting skills.
+
+ Other relevant knowledge: Familiarity with Database concepts (SQL and NoSQL), Programming Logic, programming and Scripting, etc.
+
+My English level is advanced/fluent (C1-C2) and I have experience working with international teams, which allows me to communicate effectively and collaborate on global projects.
+
+I am constantly seeking new challenges and opportunities to expand my knowledge and skills.
 
 ##
 
-### Tecnologias conhecidas e em estudo 🖥️📚
+### Technologies known and under study 🖥️📚
 
 <div syle="display: inline_block"><br/>
   <img align="" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -20,10 +37,10 @@ Sempre em busca de novos desafios e aprendizado.
   <img align="" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img align="" alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
   <img align="" alt="Power Shell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img align="" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img align="" alt=" Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div><br/>
 
-### Contato ☎️
+### Contact ☎️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-resende/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nathanresende@hotmail.com)
