@@ -6,23 +6,31 @@ I am an Information Technology professional and Computer Engineering student at 
 
 My technical skills include, but are not limited to:
 
-- **Operating Systems**: Experience in Linux (Debian and Ubuntu) and Windows Server.
-  
-- **Cloud Computing**: Knowledge of AWS (AWS Certified Cloud Practitioner) and Microsoft Azure.
-  
-- **IT Management**: Microsoft Intune, Microsoft Defender, Active Directory and Group Policy, etc.
-  
-- **Networking, Virtualization and Services**: Configuration and management of Switches, Routers, Firewalls, TCP/IP and the OSI Model, Network Segmentation (VLAN), L2 and L3, DHCP, DNS, etc.
-  
-- **Monitoring Tools**: Use of PRTG for infrastructure monitoring.
-  
-- **Technical Support and Troubleshooting**: Strong technical support and troubleshooting skills.
-  
-- **Other relevant knowledge**: Familiarity with Database concepts (SQL and NoSQL), Programming Logic, programming and Scripting, etc.
+  - **Operating Systems:** Experience with Windows Server and knowledge of Linux (Debian and Ubuntu).
+
+ - **Cloud Computing:** Microsoft Azure and AWS (AWS Certified Cloud Practitioner).
+
+ - **MDM and MAM:** Microsoft Intune, SCCM, WDS. 
+ 
+ - **Security, Privacy and Compliance:** Microsoft Defender, Microsoft Purview, DarkTrace.
+
+ - **Backup:** Veeam. 
+
+ - **Others:** Active Directory, Group Policy, DFS, FS, PS, PowerShell, Microsoft 365: Microsoft Teams, SharePoint, Exchange, OneDrive, Planner, etc.
+
+ - **Networking, Virtualization and Services:** Configuration and management of Switches, Routers, Firewalls, TCP/IP and the OSI Model, Network Segmentation (VLAN), L2 and L3, DHCP, DNS, Hyper-v, VMware, etc.
+
+ - **Monitoring Tools:** PRTG.
+
+ - **Technical Support and Troubleshooting:** Strong technical support and troubleshooting skills.
+
+ - **Other relevant knowledge:** Familiarity with Database concepts (SQL and NoSQL), Programming Logic, programming and Scripting, etc.
 
 My English level is advanced/fluent (C1-C2) and I have experience working with international teams, which allows me to communicate effectively and collaborate on global projects.
 
-I am constantly seeking new challenges and opportunities to expand my knowledge and skills.
+Currently beginning to study Dutch.
+
+I'm constantly seeking new challenges and opportunities to expand my knowledge and skills.
 
 ##
 
